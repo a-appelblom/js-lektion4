@@ -1,0 +1,19 @@
+{
+  "name": "demo-site",
+  "version": "1.0.0",
+  "description": "Demo site showing how to use NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NPM"
+  ],
+  "author": "Anton Appelblom",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dayjs": "^1.10.7",
+    "js21-test-package": "^1.0.0"
+  }
+}
